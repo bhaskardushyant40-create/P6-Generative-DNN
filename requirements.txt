@@ -1,1 +1,7 @@
-
+# For the deep learning framework
+torch
+torchvision
+# For data manipulation and plotting
+numpy
+matplotlib
+tqdm
